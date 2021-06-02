@@ -35,10 +35,12 @@ body{
     margin-bottom: 20px;
     color:#ffff;
     font-size: 240%;
-    font-bold;
     text-transform: uppercase;
     letter-spacing: 1px;
     word-spacing: 4px;
+}
+.h1{
+    font-weight: bold;
 }
 /*buttons*/
 .btn-btn-full:link,
